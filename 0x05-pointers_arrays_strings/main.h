@@ -1,5 +1,5 @@
-#ifndef _main_H_
-#define _main_H_
+#ifndef main.h
+#define main.h
 
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
