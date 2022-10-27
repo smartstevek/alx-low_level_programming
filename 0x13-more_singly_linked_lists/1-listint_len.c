@@ -9,7 +9,7 @@ Return: number of nodes.
 */
 size_t listint_len(const lintint_t *h)
 {
-	size-t nnodes = 0;
+	size_t nnodes = 0;
 
 	while (h != NULL)
 	{
